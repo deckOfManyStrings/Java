@@ -4,7 +4,6 @@
  *  printed on a new line in the form: N x i = result
  */
 
-
 import java.io.*;
 import java.util.*;
 import java.text.*;
